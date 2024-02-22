@@ -1,0 +1,54 @@
+34  mysql --version
+   35  sudo apt install mysql-client-core-8.0   
+   36  sudo apt install mysql-server-8.0   
+   37  sudo apt install mysql-server-8.0 --fix-missing
+   38  cat > Pets
+   39  ls
+   40  tree
+   41  sudo snap install tree
+   42  tree
+   43  cat > Pack_animals
+   44  tree
+   45  cat Pets 
+   46  cat Pets Pack_animals > human_friends
+   47  tree
+   48  cat human_friends 
+   49  cat >> human_friends 
+   50  vi human_friends 
+   51  cat human_friends 
+   52  ls
+   53  mkdir friends
+   54  mv human_friends friends
+   55  tree
+   56  docker --version
+   57  docker ps -a
+   58  sudo su
+   59  history
+   60  sudo su
+   61  is
+   62  ls
+   63  wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
+   64  ls
+   65  dpkg -i mysql-apt-config_0.8.29-1_all.deb 
+   66  sudo dpkg -i mysql-apt-config_0.8.29-1_all.deb 
+   67  sudo apt update
+   68  sudo mysql 
+   69  dpkg -l zip
+   70  dpkg -r zip
+   71  sudo dpkg -r zip
+   72  systemctl stop zip
+   73  sudo dpkg -i zip
+   74  sudo apt download zip
+   75  apt download zip
+   76  sudo dpkg -i zip
+   77  ls
+   78  sudo dpkg -i zip_3.0-12build2_amd64.deb 
+   79  sudo apt update
+   80  sudo dpkg -r zip_3.0-12build2_amd64.deb 
+   81  sudo dpkg -r zip
+   82  sudo dpkg --remove zip
+   83  ls
+   84  sudo apt remove zip
+   85  sudo apt update
+   86  hystory
+   87  history
